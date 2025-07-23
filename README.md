@@ -1,43 +1,40 @@
 <h1 align="center">Hi 👋, I'm Nishanth Indarapu</h1>
-<h3 align="center">Aspiring AI/ML Engineer • Tech Lead Intern • Web Developer</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Tech Lead Intern | Web Developer</h3>
 
 ---
 
 ### 🧠 About Me
 
-🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
-💡 Passionate about building real-time AI applications and intelligent chatbot systems  
-👨‍💻 Currently a **Tech Lead Intern at Swecha Telangana**  
-🤝 Strong in **leadership**, **communication**, and **cross-functional collaboration**
+🎓 B.Tech in AI & ML | Final Year | Sreenidhi Institute of Science and Technology  
+💡 AI/ML enthusiast with hands-on experience in real-time applications and chatbot development  
+👨‍💻 Currently interning as a **Tech Lead at Swecha Telangana**  
+📢 Known for leadership, communication, and cross-functional teamwork
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-- 🧠 **Mental Health Support Website**  
-  Designed a responsive web platform with chatbot integration to promote mental health awareness using HTML, CSS, JS, and ML.
+- 🧠 [**Mental Health Support Website**](https://github.com/Nish0102/Mental-Health-Support)  
+  AI-powered chatbot and responsive website to promote mental wellness.
 
-- 🕵️‍♂️ **Fake Job Posting Detector** *(In Progress)*  
-  NLP-powered tool to identify fake job listings using machine learning and Kaggle datasets.
+- ✋ [**Sign Language Recognition**](https://github.com/Nish0102/Sign-Language-Recognition)  
+  Deep learning project using CNNs to interpret hand signs via webcam feed.
 
-- ✋ **Sign Language Recognition**  
-  Built a gesture-based sign language interpreter using CNNs with Python and TensorFlow.
+- 🪙 [**Coin Segregation System**](https://github.com/Nish0102/Coin-Segregation)  
+  Hardware project that detects and sorts coins based on size using sensors and servo motors.
 
-- 💰 **Coin Segregation System**  
-  Coins were automatically categorized and sorted into boxes based on radius measurements.
-
-- 🚗 **Overtaking Alert System**  
-  Alert system that notifies drivers when another vehicle attempts to overtake — tailored for hearing-impaired users.
+- 🕵️‍♂️ [**Fake Job Posting Detector**](https://github.com/Nish0102/Fake-Job-Detector) *(Planned)*  
+  NLP-based web app to classify fake job listings using Kaggle datasets.
 
 ---
 
 ### 💼 Experience
 
-**Tech Lead Intern — Swecha Telangana**  
-*May 2024 – Present*  
-- Leading intern teams on performance analytics and workflow automation  
-- Developing scalable platforms integrated with machine learning  
-- Managing end-to-end deployment and team collaboration
+**Tech Lead Intern @ Swecha Telangana**  
+_May 2024 – Present_  
+- Leading intern teams in building performance analytics and automation workflows  
+- Integrating scalable ML pipelines into real-world platforms  
+- Coordinating across design, dev, and deployment for seamless results
 
 ---
 
@@ -55,12 +52,12 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nishanth-indarapu)  
-📧 Email: [indarapu.nishanth01@gmail.com](mailto:indarapu.nishanth01@gmail.com)  
-📍 Hyderabad, Telangana, India
+- 📧 Email: [indarapu.nishanth01@gmail.com](mailto:indarapu.nishanth01@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/nishanth-indarapu](https://linkedin.com/in/nishanth-indarapu)  
+- 🔗 GitHub: [github.com/Nish0102](https://github.com/Nish0102)
 
 ---
 
-_Thanks for visiting! Let's build something impactful together 🚀_
+_Thanks for stopping by! Let’s build something impactful 🚀_
