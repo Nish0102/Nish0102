@@ -54,8 +54,8 @@ _May 2024 – Present_
 
 ### 📫 Contact Me
 
-- 📧 Email: [indarapu.nishanth01@gmail.com](mailto:indarapu.nishanth01@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nishanth-indarapu](https://linkedin.com/in/nishanth-indarapu)  
+- 📧 Email: [indarapu.nishanth01@gmail.com](gmail:indarapu.nishanth01@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/nishanth-indarapu](https://www.linkedin.com/in/nishanth-indarapu-045045268/)  
 - 🔗 GitHub: [github.com/Nish0102](https://github.com/Nish0102)
 
 ---
