@@ -6,8 +6,7 @@
 ### 🧠 About Me
 
 🎓 B.Tech in AI & ML | Final Year | Sreenidhi Institute of Science and Technology  
-💡 AI/ML enthusiast with hands-on experience in real-time applications and end-to-end machine learning projects.
-
+💡 AI/ML enthusiast with hands-on experience in real-time applications and end-to-end machine learning projects. 
 👨‍💻 I have completed my internship with the role of **Tech Lead at Swecha Telangana**  
 📢 Known for leadership, communication, and cross-functional teamwork
 
