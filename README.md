@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nishanth Indarapu</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Tech Lead Intern | Web Developer</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Former Tech Lead Intern </h3>
 
 ---
 
 ### 🧠 About Me
 
 🎓 B.Tech in AI & ML | Final Year | Sreenidhi Institute of Science and Technology  
-💡 AI/ML enthusiast with hands-on experience in real-time applications and chatbot development  
-👨‍💻 Currently interning as a **Tech Lead at Swecha Telangana**  
+💡 AI/ML enthusiast with hands-on experience in real-time applications and end-to-end machine learning projects.
+👨‍💻 I have completed my internship with the role of **Tech Lead at Swecha Telangana**  
 📢 Known for leadership, communication, and cross-functional teamwork
 
 ---
@@ -23,15 +23,20 @@
 - 🪙 [**Coin Segregation System**](https://github.com/Nish0102/Coin-Segregation)  
   Hardware project that detects and sorts coins based on size using sensors and servo motors.
 
-- 🕵️‍♂️ [**Fake Job Posting Detector**](https://github.com/Nish0102/Fake-Job-Detector) *(Planned)*  
-  NLP-based web app to classify fake job listings using Kaggle datasets.
+- 🕵️‍♂️ [**Interns Tracker**](https://github.com/Nish0102/Interns-Tracker) 
+  The Interns Tracker is a Streamlit-based web application that allows organizations to track interns and applicants based on their current status.
 
+- [**Resume_Ranker**](https://github.com/Nish0102/Resume_Ranker)
+  The Resume Ranker is a machine learning-powered tool designed to automatically evaluate and rank resumes based on skills, experience, and relevant keywords.
+  
+- [**Spam Messages Detection**](https://github.com/Nish0102/Spam-Detection)
+  This project is a machine learning-based spam detection system that classifies text messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) techniques
 ---
 
 ### 💼 Experience
 
 **Tech Lead Intern @ Swecha Telangana**  
-_May 2024 – Present_  
+_May 2024 – September 2025_  
 - Leading intern teams in building performance analytics and automation workflows  
 - Integrating scalable ML pipelines into real-world platforms  
 - Coordinating across design, dev, and deployment for seamless results
@@ -41,7 +46,7 @@ _May 2024 – Present_
 ### 💻 Tech Stack
 
 **Languages:**  
-`Python` `C++` `Java` `HTML` `CSS` `JavaScript` `C`
+`Python` `C++` `Java` `HTML` `CSS` `JavaScript` `C` `ML` `AI`
 
 **Libraries & Tools:**  
 `scikit-learn` `TensorFlow` `Pandas` `OpenCV`  
