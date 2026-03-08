@@ -63,9 +63,6 @@ Personal portfolio website showcasing skills and projects.
 🔗 [GitHub Repo](https://github.com/Nish0102/Nish0102)  
 Sandbox repository for experiments and learning projects.
 
-### 🛡️ Integrity-Aware AI System
-🔗 [GitHub Repo](https://github.com/Nish0102/Integrity-aware-ai-system)  
-AI interview simulator with integrity signals and adaptive quizzes.
 
 ---
 
