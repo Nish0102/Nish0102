@@ -74,7 +74,6 @@ Sandbox repository for experiments and learning projects.
 - Led intern teams on analytics and automation solutions  
 - Worked on real-world ML pipelines  
 - Coordinated development and deployment  
-- Mentored junior interns
 
 ---
 
