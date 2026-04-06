@@ -1,109 +1,97 @@
 # Hi 👋, I'm Nishanth Indarapu
-### Aspiring AI/ML Engineer | GenAI Builder | Former Tech Lead Intern
+### AI/ML Engineer · GenAI Builder · Final Year B.Tech (AI & ML)
 
 ---
 
 ## 🧠 About Me
 
-🎓 **B.Tech in AI & ML (Final Year)** — Sreenidhi Institute of Science & Technology  
-💡 Passionate about building real-world AI systems that solve practical problems  
-🤖 Focused on AI/ML, Generative AI, and intelligent automation  
-👨‍💻 Former **Tech Lead Intern at Swecha Telangana**  
-📢 Strong in leadership, communication, and teamwork  
+🎓 **B.Tech in AI & ML** — Sreenidhi Institute of Science and Technology, Hyderabad  
+🤖 Building real-world AI systems: LLM apps, RAG pipelines, computer vision  
+📄 Co-authored research paper on smart emergency detection (violence & fall detection)  
+📬 Open to paid AI/ML roles and collaborations — reaching out from **June 2026**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Mental Health Support
-🔗 [GitHub Repo](https://github.com/Nish0102/Mental-Health-Support)  
-AI-powered chatbot platform promoting mental wellness with an interactive UI.
-
-### ✋ Sign Language Recognition
-🔗 [GitHub Repo](https://github.com/Nish0102/Sign-Language-Recognition)  
-CNN-based computer vision system recognizing hand signs via webcam.
-
-### 🪙 Coin Segregation System
-🔗 [GitHub Repo](https://github.com/Nish0102/Coin-Segregation)  
-Hardware + software solution for detecting and sorting coins using sensors and servo motors.
+### 🧠 CodeIQ — LLM-Powered Quiz Generator
+🔗 [GitHub Repo](https://github.com/Nish0102)  
+Generates code quizzes from any topic using LLaMA 3 via Ollama. Features AST analysis, pattern detection, difficulty scoring, a 60s timer, localStorage history, and PDF export.  
+`FastAPI` `React/Vite` `LLaMA 3` `Ollama` `jsPDF`
 
 ### 📄 Resume Ranker
 🔗 [GitHub Repo](https://github.com/Nish0102/Resume_Ranker)  
-ML + NLP system ranking resumes against job descriptions.
+Ranks resumes against job descriptions using TF-IDF + cosine similarity. Live PDF/TXT uploads, category filtering, candidate leaderboard, and shortlist/reject/waitlist actions.  
+`FastAPI` `React` `scikit-learn` `NLP`
 
-### 📩 Spam Detection
-🔗 [GitHub Repo](https://github.com/Nish0102/Spam-Detection)  
-NLP classifier labeling messages as spam or ham.
+### 🕵️ SENTINEL — Real-Time Surveillance AI
+🔗 [GitHub Repo](https://github.com/Nish0102/SENTINEL)  
+Detects violence and falls in real time via live webcam using pose estimation and motion analysis. Co-basis for published conference paper.  
+`MediaPipe` `OpenCV` `Python`
+
+### ✋ Sign Language Recognition
+🔗 [GitHub Repo](https://github.com/Nish0102/Sign-Language-Recognition)  
+CNN-based system recognizing ASL hand signs via webcam in real time.  
+`TensorFlow` `CNN` `OpenCV`
+
+### 🧠 Mental Health Chatbot
+🔗 [GitHub Repo](https://github.com/Nish0102/Mental-Health-Support)  
+AI-powered chatbot platform for mental wellness support with an interactive UI.  
+`NLP` `Python`
 
 ### 🕵️ Ghost Fake Job Detection
 🔗 [GitHub Repo](https://github.com/Nish0102/ghost_fake_job_detection)  
-ML-based system detecting fraudulent job postings.
+ML classifier detecting fraudulent job postings from text features.  
+`scikit-learn` `NLP`
 
-### 👨‍💼 Interns Tracker
-🔗 [GitHub Repo](https://github.com/Nish0102/Interns-Tracker)  
-Streamlit dashboard for tracking intern status and performance.
-
-### 💰 Financial Research Portal
-🔗 [GitHub Repo](https://github.com/Nish0102/financial-research-portal)  
-Platform for financial data analysis and research workflows.
-
-### 🤖 SENTINEL
-🔗 [GitHub Repo](https://github.com/Nish0102/SENTINEL)  
-AI-powered real-time surveillance system that detects violence and falls through a live webcam feed using pose estimation and motion analysis.
-
-### 🎨 GAI Text-to-Image
-🔗 [GitHub Repo](https://github.com/Nish0102/GAItext-to-image)  
-Generative AI project converting text prompts into images.
-
-### 🌐 MyPortfolio
-🔗 [GitHub Repo](https://github.com/Nish0102/myportfolio)  
-Personal portfolio website showcasing skills and projects.
-
-### 🧪 Nish0102
-🔗 [GitHub Repo](https://github.com/Nish0102/Nish0102)  
-Sandbox repository for experiments and learning projects.
-
+### 📩 Spam Detection
+🔗 [GitHub Repo](https://github.com/Nish0102/Spam-Detection)  
+NLP classifier labeling messages as spam or ham with a full text preprocessing pipeline.  
+`scikit-learn` `NLP`
 
 ---
 
 ## 💼 Experience
 
-### Tech Lead Intern — Swecha Telangana
-**May 2024 – Sept 2025**
+### AI/ML Intern — Qvantel *(Telecom BSS/OSS)*
+**April 2026 – June 2026**
+- Working on AI/ML integrations in a telecom BSS/OSS software environment
+- Exploring LLM, RAG, and AI agent applications
 
-- Led intern teams on analytics and automation solutions  
-- Worked on real-world ML pipelines  
-- Coordinated development and deployment  
+### Tech Lead Intern — Viswam.ai
+**May 2024 – September 2024**
+- Mentored junior interns and coordinated development across the team
+- Built an analytics platform from scratch through to deployment
+- Worked on real-world ML pipelines end to end
+
+---
+
+## 📄 Research
+
+**A.E.R.I.S: Smart Emergency Detection using Machine Learning**  
+Co-authored paper on real-time violence and fall detection using pose estimation.  
+Submitted to CSE conference — Sreenidhi Institute of Science and Technology
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** Python | C++ | Java | JavaScript | HTML | CSS | C  
-
-**AI/ML:** scikit-learn | TensorFlow | Pandas | NumPy | OpenCV  
-
-**Tools:** Git | GitHub | VS Code | Streamlit  
-
-**Soft Skills:** Leadership | Public Speaking | Team Collaboration | Project Management  
-
----
-
-## 🌱 Currently Learning
-
-- Generative AI & LLM Applications  
-- Advanced Machine Learning  
-- Real-world AI deployment  
-- Data Structures & Algorithms
+| Area | Tools |
+|------|-------|
+| **Languages** | Python · JavaScript · C++ · Java · HTML/CSS |
+| **AI / ML** | scikit-learn · TensorFlow · OpenCV · MediaPipe · Pandas · NumPy |
+| **GenAI Stack** | LangChain · Ollama · LLaMA 3 · Gemini API · RAG · FAISS |
+| **Backend** | FastAPI · REST APIs |
+| **Frontend** | React · Vite · Streamlit |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 Email: indarapu.nishanth01@gmail.com  
-💼 LinkedIn: [linkedin.com/in/nishanth-indarapu-045045268](https://www.linkedin.com/in/nishanth-indarapu-045045268/)  
-🔗 GitHub: [github.com/Nish0102](https://github.com/Nish0102)  
+📧 indarapu.nishanth01@gmail.com  
+💼 [linkedin.com/in/nishanth-indarapu-045045268](https://www.linkedin.com/in/nishanth-indarapu-045045268/)  
+🔗 [github.com/Nish0102](https://github.com/Nish0102)   
+🔗 https://nishanthindarapu.netlify.app
 
 ---
-
-⭐ *Open to internships, collaborations, and AI projects!*
